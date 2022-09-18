@@ -4,7 +4,7 @@
 - 🌱 Estou estudando Java com Spring Boot e Python para Analise de Dados
 - 👨‍💻 Ainda quero realizar meu sonho de trabalhar como um FullStack 
 - 📫 Entre em contato pelo email: jeffersonpedro05@gmail.com
-- ⚡ Uma curiosidade: Namoro uma menina de outro Estado✨
+- ⚡ Uma curiosidade: Sou amante da Lingua Brasileira de Sinais✨
 
 <div align="center">
   <a href="linktr.ee/Jefferson.Pedro">
