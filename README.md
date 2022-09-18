@@ -1,10 +1,10 @@
 ### Olá, Eu sou o Jefferson Pedro. Seja bem vindo ao meu mundo! 👋
 
 - 🔭 Hoje trabalho com Oracle Hyperion Cloud e On'premisse
-- 🌱 Hoje estou estudando Java com Spring Boot e Python para Analise de Dados
+- 🌱 Estou estudando Java com Spring Boot e Python para Analise de Dados
 - 👨‍💻 Ainda quero realizar meu sonho de trabalhar como um FullStack 
 - 📫 Entre em contato pelo email: jeffersonpedro05@gmail.com
-- ⚡ Uma curiosidade: Namoro uma menina de outro Estado e quase fui um Psicologo ✨
+- ⚡ Uma curiosidade: Namoro uma menina de outro Estado✨
 
 <div align="center">
   <a href="linktr.ee/Jefferson.Pedro">
