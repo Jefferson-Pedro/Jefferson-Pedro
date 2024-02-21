@@ -1,8 +1,8 @@
 ### Olá, Eu sou o Jefferson Pedro. Seja bem vindo ao meu mundo! 👋
 
-- 🔭 Hoje trabalho com Oracle Hyperion Cloud e On'premisse
-- 🌱 Estou estudando Java com Spring Boot e Python para Analise de Dados
-- 👨‍💻 Ainda quero realizar meu sonho de trabalhar como um FullStack 
+- 🌱 Estou estudando Java com Spring Boot e Angular para o FronEnd;
+- 🔎 Tenho experiência com a área de Suporte Técnico e BI com Oracle Hyperion;
+- 👨‍💻 Ainda quero realizar meu sonho de trabalhar como um FullStack;
 - 📫 Entre em contato pelo email: jeffersonpedro05@gmail.com
 - ⚡ Uma curiosidade: Sou amante da Lingua Brasileira de Sinais✨
 
